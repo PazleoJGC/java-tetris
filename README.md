@@ -27,4 +27,4 @@ Menu music: https://opengameart.org/content/title-theme-8-bit-style
 
 Gameplay music: https://opengameart.org/content/arcade-level-tracks-8-bitchiptune
 
-Row clear sound: www.bndclan.com/Bend3r/Bend3r/hl-content/cstrike/sound/tetris/fall.wav
+Piece fall sound: www.bndclan.com/Bend3r/Bend3r/hl-content/cstrike/sound/tetris/fall.wav
