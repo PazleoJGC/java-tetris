@@ -17,6 +17,8 @@ Player 2 uses U, H, J, K keys.
 
 <img src="https://user-images.githubusercontent.com/61520345/218164595-1fcf0014-81b4-4332-a5f5-b3c01930262b.png" width="400" height="250" />
 
+Date completed: 11/10/2021
+
 Sources:
 
 General information: https://www.colinfahey.com/tetris/tetris.html
